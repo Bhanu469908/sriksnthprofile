@@ -1,0 +1,93 @@
+# sriksnthprofile
+<!DOCTYPE html>
+<html>
+<head>
+<title>About me</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div>
+  <div>
+    <div>
+          <img src="" style="width:100%" alt="Avatar">
+            <h2>Maddineni Srikanth</h2>
+          </div>
+        </div>
+        <div>
+          <p><i class="fa fa-briefcase"></i> Student</p>
+          <p><i class="fa fa-home"></i> Guntur(dist),A.P</p>
+          <p><i class="fa fa-envelope"></i> msrikanth2122004@gmail.com</p>
+          <p><i class="fa fa-phone"></i> 7416635357</p>
+          <p><i class="fa fa-calendar"></i>21-02-2004</p>
+          <hr>
+
+          <p><b><i></i>Objective</b></p>
+          <p>Seeking a position that utilizes my skills in python which uses numpy, pandas,matlab </p>
+          <hr>
+
+          <p><b><i class="fa fa-asterisk"></i>Skills</b></p>
+          <p>C language</p>
+          <p>Python</p>
+          <p>Mathmatics</p>
+          <p></p>
+          <hr>
+          <br>
+
+          <p><b><i class="fa fa-globe"></i>Languages</b></p>
+          <p>English</p>
+          <p>Hindi</p>
+          <hr>
+          <br>
+        </div>
+      </div><br>
+    </div>
+    <div>
+      <div>
+        <h2><i class="fa fa-suitcase"></i>Activities/Hobbies</h2>
+        <p>solving logical problems</p>
+        <p>pllaying cricket,chess</p>
+        <p>watching movies</p>
+        <p>reading story books</p>
+        <hr>
+      </div>
+      <div>
+        <h2><i class="fa fa-certificate fa-fw margin-right xxlarge text-teal"></i>Education</h2>
+        <div>
+          <h5><b>UNDER GRADUATION</b></h5>
+          <h6><i class="fa fa-calendar fa-fw margin-right"></i>2021 - current</h6>
+          <p>At Central university of Rajasthan</p>
+          <hr>
+        </div>
+        <div>
+          <h5><b>10+2(intermediate)</b></h5>
+          <h6><i class="fa fa-calendar fa-fw margin-right"></i>2019 - 2021</h6>
+          <p>At Bhashyam junior college</p>
+          <p>passed with 94.4%</p>
+          <hr>
+        </div>
+        <div>
+          <h5><b>10Th class</b></h5>
+          <h6><i class="fa fa-calendar fa-fw margin-right"></i>2018 - 2019</h6>
+          <p>At Bhashyam high school gorantla guntur</p>
+          <p>passed with 9.7 gpa</p>
+          <hr>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+  <p>Find me on social media.</p>
+  <i class="fa fa-facebook-official hover-opacity"></i>
+  <i class="fa fa-instagram hover-opacity"></i>
+  <i class="fa fa-snapchat hover-opacity"></i>
+  <i class="fa fa-pinterest-p hover-opacity"></i>
+  <i class="fa fa-twitter hover-opacity"></i>
+  <i class="fa fa-linkedin hover-opacity"></i>
+  <p>created by myself</p>
+</footer>
+</body>
+</html>
